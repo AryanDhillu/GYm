@@ -1,0 +1,45 @@
+/* ItemModal.css */
+.item-form {
+    margin: 0;
+  }
+  
+  .item-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .item-form label {
+    font-weight: bold;
+  }
+  
+  .item-form .form-control {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  .pr-group {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .pr-input-wrapper {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .pr-input-wrapper:last-child {
+    margin-right: 0;
+  }
+  
+  .pr-input {
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  .item-form .btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
